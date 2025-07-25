@@ -1,6 +1,6 @@
 # Network Calculator-Verificator
 
-## Based on Client-Server arch
+## Description
 - Server is a calculator, which have implemented by eval() Python function
 - Client is a generator of mathimathical expressions and he have access for trusted math server
 - Client is a verificator of server answers
