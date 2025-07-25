@@ -9,6 +9,7 @@
  - chmod +x maker
  - ./maker
    Calculator application for client -> client path to execute
+   
    Calculator application for server -> server path to execute
 
 ## Bugs
