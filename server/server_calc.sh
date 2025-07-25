@@ -1,0 +1,1 @@
+python3 ./server_calc.py "$1" > answer_server.txt

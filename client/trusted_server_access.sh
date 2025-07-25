@@ -1,0 +1,1 @@
+ping ru.numberempire.com -c 1 | grep " 0% packet loss" -q

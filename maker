@@ -1,0 +1,8 @@
+chmod +x ./server/server_calc.sh ./client/client_calc.sh ./client/trusted_server_access.sh
+cd ./client
+g++ client.cpp -o client 
+echo "Calculator application for client -> $PWD/client"
+cd ../server
+g++ server.cpp -o server 
+echo "Calculator application for server -> $PWD/server"
+cd ..
